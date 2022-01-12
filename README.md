@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Zockbot-Discord](https://github.com/Zockerwolf76/Zockbot-Discord)
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ Fun fact **I think i'm funny (not really)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

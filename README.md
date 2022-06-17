@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zockerwolf76</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [Zockbot-Discord](https://github.com/Zockerwolf76/Zockbot-Discord)
+- 🔭 I’m currently working on [FNLobbybot](https://github.com/Zockerwolf76/FNLobbybot)
 
 - ⚡ Fun fact **I think i'm funny (not really)**
 
